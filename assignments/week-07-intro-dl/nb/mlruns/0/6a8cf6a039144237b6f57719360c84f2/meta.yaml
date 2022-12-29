@@ -1,0 +1,15 @@
+artifact_uri: file:///home/annrdyer/ann_repo/assignments/week-07-intro-dl/nb/mlruns/0/6a8cf6a039144237b6f57719360c84f2/artifacts
+end_time: 1670905351082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a8cf6a039144237b6f57719360c84f2
+run_name: aged-flea-291
+run_uuid: 6a8cf6a039144237b6f57719360c84f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670905331438
+status: 3
+tags: []
+user_id: annrdyer

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/annrdyer/ann_repo/assignments/week-07-intro-dl/nb/mlruns/0/5a23ba8059e440ebbe3c4ba49d0e53e2/artifacts
+end_time: 1670794608634
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a23ba8059e440ebbe3c4ba49d0e53e2
+run_name: righteous-whale-747
+run_uuid: 5a23ba8059e440ebbe3c4ba49d0e53e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670794581344
+status: 3
+tags: []
+user_id: annrdyer

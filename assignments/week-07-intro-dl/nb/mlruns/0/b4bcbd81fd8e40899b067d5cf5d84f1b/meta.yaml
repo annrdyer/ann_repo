@@ -1,0 +1,15 @@
+artifact_uri: file:///home/annrdyer/ann_repo/assignments/week-07-intro-dl/nb/mlruns/0/b4bcbd81fd8e40899b067d5cf5d84f1b/artifacts
+end_time: 1670905411195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4bcbd81fd8e40899b067d5cf5d84f1b
+run_name: funny-trout-639
+run_uuid: b4bcbd81fd8e40899b067d5cf5d84f1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670905392368
+status: 3
+tags: []
+user_id: annrdyer
