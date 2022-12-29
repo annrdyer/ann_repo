@@ -1,0 +1,15 @@
+artifact_uri: file:///home/annrdyer/ann_repo/assignments/week-07-intro-dl/nb/mlruns/0/38591223685a4a4a892812c33ccb6a27/artifacts
+end_time: 1672283425222
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38591223685a4a4a892812c33ccb6a27
+run_name: sincere-doe-525
+run_uuid: 38591223685a4a4a892812c33ccb6a27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672283408622
+status: 3
+tags: []
+user_id: annrdyer

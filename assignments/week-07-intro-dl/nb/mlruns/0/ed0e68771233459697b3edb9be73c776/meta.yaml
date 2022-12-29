@@ -1,0 +1,15 @@
+artifact_uri: file:///home/annrdyer/ann_repo/assignments/week-07-intro-dl/nb/mlruns/0/ed0e68771233459697b3edb9be73c776/artifacts
+end_time: 1672285643460
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed0e68771233459697b3edb9be73c776
+run_name: adventurous-cow-77
+run_uuid: ed0e68771233459697b3edb9be73c776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672285624350
+status: 3
+tags: []
+user_id: annrdyer

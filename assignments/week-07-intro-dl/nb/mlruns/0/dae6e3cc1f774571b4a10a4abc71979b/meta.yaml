@@ -1,0 +1,15 @@
+artifact_uri: file:///home/annrdyer/ann_repo/assignments/week-07-intro-dl/nb/mlruns/0/dae6e3cc1f774571b4a10a4abc71979b/artifacts
+end_time: 1672285695703
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dae6e3cc1f774571b4a10a4abc71979b
+run_name: bright-mare-697
+run_uuid: dae6e3cc1f774571b4a10a4abc71979b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672285676503
+status: 3
+tags: []
+user_id: annrdyer

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/annrdyer/ann_repo/assignments/week-07-intro-dl/nb/mlruns/0/90d2a4da13e54be88309f2ac8487340d/artifacts
+end_time: 1672275743281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90d2a4da13e54be88309f2ac8487340d
+run_name: unleashed-auk-188
+run_uuid: 90d2a4da13e54be88309f2ac8487340d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672275726062
+status: 3
+tags: []
+user_id: annrdyer

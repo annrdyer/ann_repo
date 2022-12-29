@@ -1,0 +1,15 @@
+artifact_uri: file:///home/annrdyer/ann_repo/assignments/week-07-intro-dl/nb/mlruns/0/3eb1785013b645598b7a6a92484a28ad/artifacts
+end_time: 1672283581471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3eb1785013b645598b7a6a92484a28ad
+run_name: nimble-steed-177
+run_uuid: 3eb1785013b645598b7a6a92484a28ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672283564472
+status: 3
+tags: []
+user_id: annrdyer
